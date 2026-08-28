@@ -68,4 +68,4 @@ jobs:
 
     steps:
       - name: Deploy application
-        run: echo "Deploying application to productionnnnn..."
+        run: echo "Deploying application to productionnn..."
